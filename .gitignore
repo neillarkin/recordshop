@@ -1,0 +1,9 @@
+.*
+*.sqlite3
+*.pyc
+webshop/__pycache__/
+env.py
+media/
+webshop/htmlcov/
+*.png
+static/
